@@ -1,5 +1,12 @@
 # Monitor K8S
 
+## connect to k8s on docker desktop</p>
+
+```
+kubectl config get-contexts
+kubectl config use-context docker-desktop
+```
+
 ##Prometheus</p>
 
 ##Gafana</p>
