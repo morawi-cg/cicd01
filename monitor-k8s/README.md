@@ -12,7 +12,8 @@ kubectl config use-context docker-desktop
 ##Gafana</p>
 
 ##GrafanaAgentKubernetes:</p>
-
+  https://grafana.com/docs/agent/latest/static/configuration/create-config-file/
+  
 ### Install</p>
 
 ```
